@@ -3,6 +3,7 @@
 **My Recent Interests**:
 - FrontEnd Developing
 - JavaScript
+- TypeScript
 - React
 - Design Patterns
 - Next.js
