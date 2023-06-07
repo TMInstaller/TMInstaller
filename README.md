@@ -2,11 +2,11 @@
 https://time-map-installer.tistory.com/
 
 **My Recent Interests**:
-- FrontEnd Developing
+- Frontend Engineering
 - JavaScript
 - TypeScript
 - React
-- Design Patterns
+- API Routes
 - Next.js
 
 ## Skills:
