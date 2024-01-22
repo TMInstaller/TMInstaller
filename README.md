@@ -6,7 +6,8 @@ https://time-map-installer.tistory.com/
 - JavaScript
 - TypeScript
 - React
-- API Routes
+- UI / UX
+- Interactive Web
 - Next.js
 
 ## Skills:
